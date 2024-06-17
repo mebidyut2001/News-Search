@@ -42,12 +42,10 @@ To run this project, you need a web browser and an internet connection.
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgements
 - Thanks to the news API providers for their services.
 
 ---
 
-Feel free to customize this `README.md` file according to your specific project details and requirements.
