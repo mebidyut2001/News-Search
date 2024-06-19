@@ -47,5 +47,9 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 ## Acknowledgements
 - Thanks to the news API providers for their services.
 
+![Screenshot 2024-06-19 071342](https://github.com/mebidyut2001/News-Search/assets/145282059/8b884d33-ca1f-4a55-9a7d-c67865544b18)
+![Screenshot 2024-06-19 071424](https://github.com/mebidyut2001/News-Search/assets/145282059/eacd57f0-e96a-4984-9510-3810e7cce023)
 
+![Screenshot 2024-06-19 071447](https://github.com/mebidyut2001/News-Search/assets/145282059/d9e479d8-2963-4015-b8b7-9d7ddee77aa8)
+![Screenshot 2024-06-19 071514](https://github.com/mebidyut2001/News-Search/assets/145282059/897e8242-1041-4d6d-a496-eaf2a51c112c)
 
